@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm from Valencia (Spain) but I currently live in UK.
 
-*Software Developer @ [Leanmind](https://leanmind.es/en/)*
+**Software Developer @ [Leanmind](https://leanmind.es/en/)**
 
 
 ## 🌐 Socials:
